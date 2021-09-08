@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Dispatcher App</string>
+    <string name="greetings">Добро пожаловать, Диспетчер!</string>
+    <string name="sign_in_bottom">Войдите в свою учётную запись</string>
+    <string name="sign_in_name">Введите персональный id диспетчера</string>
+    <string name="sign_in_name_hgh">Ваш id</string>
+    <string name="sign_in_pwd">Введите пароль</string>
+    <string name="sign_in_pwd_hgh">Пароль</string>
+    <string name="sign_in_btn">Войти</string>
+    <string name="Done">Продолжить</string>
+    <string name="uploadDB">Загрузить</string>
+    <string name="updateDB">Обновить</string>
+    <string name="map">Карта</string>
+    <string name="messages">Сообщения</string>
+    <string name="works">Наряды</string>
+    <string name="MainMenu">Главное меню</string>
+    <string name="report">Отчёты</string>
+    <string name="open">Открытые</string>
+    <string name="closed">Закрытые</string>
+    <string name="search">Поиск</string>
+    <string-array name="spinTypeSearch">
+        <item>Водитель</item>
+        <item>Автобус</item>
+        <item>Маршрут</item>
+    </string-array>
+    <string-array name="head">
+        <item>а123аа136 ЛиАЗ 5292</item>
+        <item>а000аа136 ПАЗ 3205</item>
+        <item>о222оо36 ПАЗ 320302</item>
+    </string-array>
+    <string-array name="subhead">
+        <item>Кол-во рейсов: 3</item>
+        <item>Кол-во рейсов: 2</item>
+        <item>Кол-во рейсов: 0</item>
+    </string-array>
+</resources>
